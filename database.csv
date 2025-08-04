@@ -1,0 +1,9 @@
+id,name,age,gender,country,signup_date,email
+1,John Doe,28,M,USA,2022/01/15,john.doe@example.com
+2,Jane Smith,,female,us,15-02-2022,jane.smith@example.com
+3,Emily Davis,35,Female,United States,2022-03-18,emily.davis@example.com
+4,Michael Brown,42,Male,UK,03/24/2022,michael.brown@example.com
+5,,30,M,United Kingdom,2022-04-05,michael.brown@example.com
+6,Anna Taylor,27,F,UK,2022-05-01,anna.taylor@example.com
+7,Anna Taylor,27,F,UK,2022-05-01,anna.taylor@example.com
+8,Chris Lee,twenty-eight,male,usa,2022-06-07,chris.lee@example.com
